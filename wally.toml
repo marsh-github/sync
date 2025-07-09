@@ -1,0 +1,11 @@
+[package]
+name = "marsh/sync"
+description = "Alternative _G table, syncs across all scripts (local and server if you put in ReplicatedStorage).\nI've also added more functionality that the _G table otherwise doesn't have."
+version = "1.0.0"
+license = "Apache-2.0"
+authors = ["NotMarshh <https://www.roblox.com/users/5799881176/profile>"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["rokit.toml"]
+
+[dependencies]
