@@ -6,13 +6,11 @@
 -- ..and more coming soon!
 
 local CORE_LOCKED = {
-	YZ_DEBUG_ = false,
+	-- Add CORE_LOCKED values here
 }
 
 local _SYNC_DATA = {
-	YZ_SHOW_SPEED_ = true,
-	YZ_LOADED_FINISH_ = false,
-	YZ_INTRO_FINISH_ = false,
+	-- _SYNC values
 }
 
 local events = {}
